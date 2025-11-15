@@ -65,14 +65,12 @@ Tela inicial e central de navegação da aplicação.
 ## Demonstração
 
 A seguir estão **três áreas reservadas para demonstrar o funcionamento do projeto**.  
-Substitua cada imagem abaixo pelos prints reais.
 
 ---
 
 ### 1. Demonstração – Caso 1: Recomendações de Carreira (Perfil A)
 
-Descrição sugerida:  
-Perfil com competências equilibradas ou focadas em lógica/análise.
+Perfil com competências focadas em lógica e análise.
 
 **Imagem aqui:**  
 ![demonstracao_caso1](CAMINHO/IMAGEM1.png)
@@ -81,8 +79,7 @@ Perfil com competências equilibradas ou focadas em lógica/análise.
 
 ### 2. Demonstração – Caso 2: Recomendações de Carreira (Perfil B)
 
-Descrição sugerida:  
-Perfil com características mais criativas, colaborativas ou comunicacionais.
+Perfil com competências focadas em comunicação e liderança.
 
 **Imagem aqui:**  
 ![demonstracao_caso2](CAMINHO/IMAGEM2.png)
@@ -90,8 +87,7 @@ Perfil com características mais criativas, colaborativas ou comunicacionais.
 ---
 
 ### 3. Demonstração – Faculdades Recomendadas
-
-Descrição sugerida:  
+ 
 Print da tela exibindo as áreas promissoras e cursos recomendados.
 
 **Imagem aqui:**  
