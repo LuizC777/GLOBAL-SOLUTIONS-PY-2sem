@@ -72,7 +72,7 @@ A seguir estão **três áreas reservadas para demonstrar o funcionamento do pro
 
 Perfil com competências focadas em lógica e análise.
 
-**Imagem aqui:**  
+ 
 ![Image](https://github.com/user-attachments/assets/fc1eb116-5292-421c-9d51-534233da4ac4)
 
 ---
@@ -81,8 +81,8 @@ Perfil com competências focadas em lógica e análise.
 
 Perfil com competências focadas em comunicação e liderança.
 
-**Imagem aqui:**  
-![demonstracao_caso2](CAMINHO/IMAGEM2.png)
+ 
+![Image](https://github.com/user-attachments/assets/b856e405-d858-496f-876d-a526f7d957b0)
 
 ---
 
