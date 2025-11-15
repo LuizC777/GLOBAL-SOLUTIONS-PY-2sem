@@ -73,7 +73,7 @@ A seguir estão **três áreas reservadas para demonstrar o funcionamento do pro
 Perfil com competências focadas em lógica e análise.
 
 **Imagem aqui:**  
-![demonstracao_caso1](CAMINHO/IMAGEM1.png)
+![Image](https://github.com/user-attachments/assets/fc1eb116-5292-421c-9d51-534233da4ac4)
 
 ---
 
