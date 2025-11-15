@@ -22,7 +22,7 @@ O objetivo é fornecer uma ferramenta simples, visual e intuitiva que ajude estu
 1. Baixe ou clone este repositório.  
 2. Certifique-se de que o arquivo `gs_python.py` está no diretório principal.  
 3. Execute a aplicação com:
-python gs_python.py
+`python gs_python.py`
 
 4. Utilize a tela inicial para navegar entre:
 - **Descobrir meu perfil**
