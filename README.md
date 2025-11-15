@@ -33,10 +33,8 @@ python gs_python.py
 ## Estrutura de Arquivos e Classes
 
 ├── gs_python.py # Código principal do projeto
-
 ├── bg.png # Imagem de fundo da tela inicial
-
-└── README.md # Documentação do projeto
+├── README.md # Documentação do projeto
 
 
 ### Classes Principais
